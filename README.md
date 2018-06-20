@@ -1,2 +1,5 @@
 # hello-world
-just another reposlitory
+
+Hi Humans!
+
+I want to learn Python on gitbut.
